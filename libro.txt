@@ -1,7 +1,7 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES: Zuly Vargas, Camilo Pichimata
+AUTORES: Zuly Vargas, Camilo Pichimata, Juan Cortes, Andres Martinez
 
 
 

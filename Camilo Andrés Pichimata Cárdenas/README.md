@@ -16,7 +16,7 @@ El plan de estudios que curso actualmente se puede visualizar dando click [aquí
 Actualmente me encuentro viviendo en una de las veredas del municipio de [Cachipay](https://es.wikipedia.org/wiki/Cachipay) Cundinamarca, la mayor parte de mi vida he vivido en el campo, estudié hasta grado 5° en la sede escuela rural Cayunda de la I.E.D. Alfonso López Pumarejo y luego en el Instituto Técnico Olga Santamaría del municipio de [Anolaima](https://es.wikipedia.org/wiki/Anolaima), un municipio vecino, hasta graduarme de bachiller; Dejo algunas fotos de los lugares en los que estudié.
 
 ### Escuela Rural Cayundá 
-![](EscuelaCayunda.png)
+![](Imagenes/EscuelaCayunda.png)
 
 ### Instituto Técnico Olga Santamaría
 ![](https://userscontent2.emaze.com/images/16c42b75-cbda-4dd1-8cd9-b6aaa558e687/c3470757-984f-48d2-99ee-d275129be73a.jpg)
